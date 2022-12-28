@@ -19,7 +19,7 @@
 
 ## Installation
 
-This was deployed using Heroku
+[This was deployed using Heroku.](https://vast-eyrie-63674.herokuapp.com/)
 
 ## Usage
 
